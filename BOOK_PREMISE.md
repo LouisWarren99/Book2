@@ -133,8 +133,11 @@ Complete technical specifications and manufacturing documentation for **ALL Germ
 - Understanding of the scale and impact of Allied signals intelligence
 
 
+**What Intelligence Package DOES Include**:
+- Knowledge of which Allied spies operate in German territory
+- This allows Germans to infer what intelligence has likely been compromised to the Allies
+
 **What Intelligence Package Does NOT Include**:
-  German knowledge of what the Allies know about germany (beyond their own spies and the knowledge they have just agained about what spies operate in their territory) This does allow them (if they have the documentation) to know what the allies likely know about german near term/long term plans and capabilties.
 - ❌ Specific Allied war plans or troop dispositions (not offensive intelligence)
 - ❌ D-Day date or exact landing locations
 - ❌ Specific Allied operational orders
@@ -153,7 +156,7 @@ Complete technical specifications and manufacturing documentation for **ALL Germ
 - ❌ Thermonuclear (hydrogen bomb) technology
 - ❌ Any weapons applications of nuclear technology
 
-**Story Constraint**: This is a deliberate quirk of the scenario. Nuclear power reactor technology IS included (electricity generation, research reactors), but all weapons applications are completely ignored and will not feature in the story or tatics.
+**Story Constraint**: This is a deliberate quirk of the scenario. Nuclear power reactor technology IS included (electricity generation, research reactors), but all weapons applications are completely ignored and will not feature in the story or tactics.
 
 **Rationale**: Story requirement to maintain dramatic tension and avoid quick German victory or loss via nuclear weapons.
 
@@ -161,7 +164,7 @@ Complete technical specifications and manufacturing documentation for **ALL Germ
 
 ## TECHNOLOGY LIMITATIONS
 
-Whilst Germany now has vast amounts of technology documentation, it must be dertermined how and what can be used, how long it will take to develop etc.
+Whilst Germany now has vast amounts of technology documentation, it must be determined how and what can be used, how long it will take to develop etc.
 
 Significant consideration must be made on how the allies will respond, how they will attempt to spy and how they will copy technology etc.
 
@@ -176,13 +179,6 @@ Significant consideration must be made on how the allies will respond, how they 
 - To historical  D-Day (June 6, 1944): 12 months
 - To historical VE Day (May 8, 1945): 23 months
 - To potential extended war end: Unknown (determined by scenario)
-
-**Development Timelines** (examples):
-- **0-6 months**: Simple systems
-- **6-12 months**: Medium complexity 
-- **12-18 months**: Complex systems
-- **18-24+ months**: Very complex 
-- **Years**: Technology that requires complete industrial retooling or new infrastructure
 
 **Note**: Technology documentation provides complete knowledge, but physical implementation requires time for:
 - Prototyping and testing
@@ -215,7 +211,7 @@ Significant consideration must be made on how the allies will respond, how they 
 - Removal of ideological constraints
 - Perfect decision-making
 - Unified command structure
-- Proof its real (germans may be suspicious?)
+- Proof it's real (Germans may be suspicious)
 
 **Germans must still decide**:
 - What to prioritize
@@ -236,12 +232,9 @@ Significant consideration must be made on how the allies will respond, how they 
 - Develop countermeasures
 - May share intelligence among Allied nations
 
-**Timeline for Allied adaptation** (approximate):
-- unknwown - must be worked out
-
 ---
 
-### Resource Constraints as of 1943 ###
+### Resource Constraints as of 1943
 
 **Germany faces**:
 - Limited oil production (synthetic fuel can be optimized, but still requires coal and plants)
@@ -254,18 +247,8 @@ Significant consideration must be made on how the allies will respond, how they 
 **Germany cannot**:
 - Create resources from nothing
 - Overcome fundamental material shortages indefinitely
-- Match Allied production capacity (rapidly if ever?)
+- Match Allied production capacity in available timeframe
 - Eliminate geographic disadvantages
-
----
-
-### Story Constraint: No Atomic Bombs
-
-**This is a deliberate narrative choice**, not a logical outcome:
-
-**In reality**: If time traveler is from 2200 and providing complete technology, atomic weapons would likely be included
-
-**For this story**: Atomic weapons technology impossible and not researched by anyone.
 
 ---
 
@@ -330,7 +313,7 @@ Significant consideration must be made on how the allies will respond, how they 
 
 6. **Does technology overcome material/numerical disadvantages?** (Quality vs. quantity)
 
-7. **How long can Germany sustain war can this actually turn the war into germanys favour?** (Resource exhaustion timeline)
+7. **How long can Germany sustain the war? Can this actually turn it in Germany's favor?** (Resource exhaustion timeline)
 
 8. **What is the ultimate outcome?** (Defeat? Stalemate? Conditional peace? Total victory?)
 
